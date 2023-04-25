@@ -1,5 +1,5 @@
 '''
-Este programa pergunta três números e informa o maior deles
+Este programa pergunta três números e informa o maior deles.
 Por Galileu Batista - Abr 2023
 IFRN/CNAT
 '''
