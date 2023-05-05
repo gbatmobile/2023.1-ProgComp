@@ -10,7 +10,7 @@ x = 1
 
 while x < 1000:
     if (x % 3 == 0) or (x % 5 == 0):
-        soma += x
+        soma = soma + x
     x = x + 1
 
 print ("A soma dos múltiplos de 3 ou 5, menores do que 1000 é:", soma)
